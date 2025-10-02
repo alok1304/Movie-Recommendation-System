@@ -25,8 +25,8 @@ A web-based movie recommendation system built using **Python**, **Streamlit**, a
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
-cd <repo-folder>
+git clone https://github.com/alok1304/Movie-Recommendation-System.git
+cd Movie-Recommendation-System
 ```
 
 2. Create and activate a virtual environment (optional):
