@@ -81,15 +81,3 @@ streamlit run app.py
 - Fetches movie posters from TMDb API and displays them.
 
 
-Folder Structure
-```
-Movie-Recommender/
-│
-├── models/
-│   ├── movie_list.pkl
-│   └── similarity.pkl
-│
-├── app.py
-├── requirements.txt
-└── README.md
-```
